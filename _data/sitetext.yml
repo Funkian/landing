@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-#   title: Welcome to our Studio!
-    text: I am a Hobby Visionary and Spare Time Consultant
+    text: Namaste!
+    title: I will unlock your full potential!
     button: Tell Me More
     buttonlink: "#services"
 
