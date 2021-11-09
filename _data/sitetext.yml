@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+#   title: Welcome to our Studio!
+    text: I am a Hobby Visionary and Spare Time Consultant
     button: Tell Me More
     buttonlink: "#services"
 
@@ -34,8 +34,8 @@ en: &DEFAULT_EN
   portfolio:
     title: "Portfolio"
     text: "Nothing to show."
-#    section: portfolio
-#    closebutton: "Close Project"
+    section: portfolio
+    closebutton: "Close Project"
 
 #  timeline:
 #    title: "Timeline"
@@ -93,7 +93,7 @@ en: &DEFAULT_EN
 #        logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "GET IN TOUCH"
+    title: "Kørrøkurim vitæ"
     text: "Lorem ipsum dolor sit amet consectetur."
     subtext: Lorem ipsum.
     section: team
@@ -108,7 +108,7 @@ en: &DEFAULT_EN
 #            icon: fab fa-facebook-f
 #          - url: https://linkedin.com
 #            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
+      - name: "Shaman Durex"
         role: "Hobby Visionary"
         image: assets/img/team/2.jpg
         social:
