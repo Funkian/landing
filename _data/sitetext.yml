@@ -16,9 +16,9 @@ en: &DEFAULT_EN
     button: Tell Me More
     buttonlink: "#services"
 
-  What I do:
-#    title: "Services"
-#    text: "Lorem ipsum"
+  services:
+    title: "What I do"
+    text: "Absolutely nothing..."
 #    section: services
 #    list:
 #      - title: "E-Commerce"
