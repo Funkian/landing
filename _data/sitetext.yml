@@ -93,9 +93,9 @@ en: &DEFAULT_EN
 #        logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "OUR AMAZING TEAM"
+    title: "GET IN TOUCH"
     text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    subtext: Lorem ipsum.
     section: team
     people:
 #      - name: "Kay Garland"
@@ -109,7 +109,7 @@ en: &DEFAULT_EN
 #          - url: https://linkedin.com
 #            icon: fab fa-linkedin-in
       - name: "Larry Parker"
-        role: "Lead Marketer"
+        role: "Hobby Visionary"
         image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
@@ -130,7 +130,7 @@ en: &DEFAULT_EN
 #            icon: fab fa-linkedin-in
 
   contact:
-    title: "Contact Us"
+    title: "Snail Mail"
     text: "Lorem ipsum or call 123456789"
     section: contact
     name: "Name*"
